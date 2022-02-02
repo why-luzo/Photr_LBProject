@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Wlu0OV0DHq5vyqN0CcFkALu5mmg36treg/3IThuXKDA=",
+  "Hash": "ReHkqGkeb3XyZ5q4UBbrNaUmySmxyihncOgSoqNk/eg=",
   "Source": "Photr_LBPrjoect",
   "BasePath": "/",
   "Mode": "Root",
@@ -2819,7 +2819,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dario\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\lib\\netstandard2.0\\Microsoft.Win32.SystemEvents.dll"
+      "OriginalItemSpec": "C:\\Users\\dario\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\lib\\net6.0\\Microsoft.Win32.SystemEvents.dll"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\mscorlib.dll",
@@ -4298,7 +4298,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dario\\.nuget\\packages\\system.drawing.common\\4.7.0\\lib\\netstandard2.0\\System.Drawing.Common.dll"
+      "OriginalItemSpec": "C:\\Users\\dario\\.nuget\\packages\\system.drawing.common\\6.0.0\\lib\\net6.0\\System.Drawing.Common.dll"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Drawing.dll",
@@ -7276,6 +7276,23 @@
       "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\ru\\Microsoft.CodeAnalysis.CSharp.resources.dll"
     },
     {
+      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\+8mMi0j2.gz",
+      "SourceId": "Photr_LBPrjoect",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Win32.SystemEvents.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Win32.SystemEvents.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Win32.SystemEvents.dll"
+    },
+    {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\+aAGzjvV.gz",
       "SourceId": "Photr_LBPrjoect",
       "SourceType": "Computed",
@@ -8906,6 +8923,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.FileSystem.dll"
+    },
+    {
+      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\b984FSWQ.gz",
+      "SourceId": "Photr_LBPrjoect",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Drawing.Common.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Drawing.Common.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Drawing.Common.dll"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\BEtTWPvo.gz",
@@ -11101,23 +11135,6 @@
       "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Claims.dll"
     },
     {
-      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\lgaayxt3.gz",
-      "SourceId": "Photr_LBPrjoect",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/System.Drawing.Common.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Drawing.Common.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Drawing.Common.dll"
-    },
-    {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\ljxMnG1F.gz",
       "SourceId": "Photr_LBPrjoect",
       "SourceType": "Computed",
@@ -11694,23 +11711,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\ru\\Microsoft.CodeAnalysis.resources.dll"
-    },
-    {
-      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\oUY+uSmE.gz",
-      "SourceId": "Photr_LBPrjoect",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Win32.SystemEvents.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Win32.SystemEvents.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Win32.SystemEvents.dll"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\OWKDlL+J.gz",

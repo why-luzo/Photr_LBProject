@@ -73,7 +73,7 @@
       "Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll": "sha256-DrH1OrfD6jDCWBiWYleWClA8yiwnLD6sPz4v2XUazlo=",
       "Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll": "sha256-cVdujep14wBLAsWLLsvomKL1K2b1084b4G6GsOYtfjE=",
       "Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll": "sha256-jVGBhmDD\/hGmDHC3qz+UXOFM8bz3HtzpFMZA6S683VU=",
-      "Microsoft.Win32.SystemEvents.dll": "sha256-56MWX7GCuiW+O0EPzkUo0jj6T\/mhpVB6x+UFQtaS2qE=",
+      "Microsoft.Win32.SystemEvents.dll": "sha256-yklb9shrfwktYkkoEBmFqUFTLRSdzYrP6hcPilO+iFA=",
       "Newtonsoft.Json.dll": "sha256-cs8pHUurDt0IqbB8YXPh560au3q3J\/1wRL9jBddRVmE=",
       "NuGet.Common.dll": "sha256-M8TPKezn8U+BUtar+h9mwuzsdMW4BKlDnUqYqa6PlIw=",
       "NuGet.Configuration.dll": "sha256-xXjykkO3aUO18AxVtfhWJB5xjsAh1ATeo1Yi\/YChIzY=",
@@ -90,7 +90,7 @@
       "System.Composition.Runtime.dll": "sha256-xBnj1R+e77H2\/A+3zPm1rFzEt1+nUTHUrwx0JSkU6xA=",
       "System.Composition.TypedParts.dll": "sha256-LGCb7Tu9K+gQRx4x42sSyzIaUPwlQejynB9ZyM+GnEE=",
       "System.Configuration.ConfigurationManager.dll": "sha256-Rmj4lST8tNcZUOCtfg1W5eXbLHDjla1J99tqgWTMUNY=",
-      "System.Drawing.Common.dll": "sha256-E+\/s4U4Xt\/iFr\/+Dd7ZSqXXAOJZKgnOAW4C5r7OPcHc=",
+      "System.Drawing.Common.dll": "sha256-mNB+ax59NkGoYIo2Cz3Cc\/6KD3iSa24eX2eaegdNSR8=",
       "System.IdentityModel.Tokens.Jwt.dll": "sha256-sXPVBzH5GkrOxg71dclCkIUu1x2JTXiA7Pz\/bqxogtw=",
       "System.IO.Pipelines.dll": "sha256-fpnawcAWgJ8i0JPJ9DhQ8XFDKYsTi6md2eRFNh\/bONA=",
       "System.Runtime.Caching.dll": "sha256-uinCUR2ohEr7HafWzdwVIpeyborl3XdQrpSXZ3TYWvQ=",
@@ -264,13 +264,13 @@
       "mscorlib.dll": "sha256-+5VU+MYaTQMTlRe9QKobEjWZWv6I9teAGdNndWSBqWE=",
       "netstandard.dll": "sha256-E5RFhGIaDH5QM6BEbFUuHU8U9wP6N6jbo5MCttzLOCM=",
       "System.Private.CoreLib.dll": "sha256-9NtEbYixyog7vUmeYXyyqzfBXUYl8wxoVQ26Ji7sNRg=",
-      "Photr_LBPrjoect.dll": "sha256-ZCDl4R3MOAv\/GwxlzXxBUiRk1cdGWgxDVJD6LHyOLqA="
+      "Photr_LBPrjoect.dll": "sha256-n0nVhM8DlhcPSAgGwp8qp+6TbycjeS\/ey5dj\/I6RssU="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "Photr_LBPrjoect.pdb": "sha256-dkMnGnKP+K\/ilO03tOJNBcTn7RcH9fvV6fMBo4EI\/Yg="
+      "Photr_LBPrjoect.pdb": "sha256-U\/DhIi4L+LWwqRP5YmI8CYVf+cObucgvPYYxKKUqxEU="
     },
     "runtime": {
       "dotnet.6.0.1.h2tvn97kdi.js": "sha256-awQsJ\/WxYhouHPuE+i3eJqjA4XClQlr2rD6nKvW80ww=",
